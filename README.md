@@ -1,2 +1,2 @@
 # HangTurtle
-Hangman but not hangman (in Python3)
+Hangman but not hangman (in Python2)
